@@ -20,7 +20,7 @@ Commandes utile pour les staff sur fivem !
 2 - les mettres dans votre dossier choisi par exemple [admin]
 3 - mettre ses lignes de commande suivante dans votre fichier server.cfg
 
-add_ace group.admin utils.revive allow
+add_ace group.admin utils.revive allow</d>
 add_ace group.admin utils.mpid allow
 add_ace group.admin utils.time allow
 add_ace group.admin utils.weather allow
